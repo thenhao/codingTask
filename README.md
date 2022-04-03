@@ -2,7 +2,7 @@
 
 ## Steps for installation
 1.	Clone the repository.
-2.	Open the project folder task in your code editor.
+2.	Open the project folder in your code editor.
 3.	Open a new terminal and type “cd usersearch” and hit enter. We are in the       directory of the react project.
 4.	Type “npm install“ to install the dependencies of the react project.
 5.	Once done type “cd ..” to go back to the root directory.
