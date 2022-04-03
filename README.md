@@ -1,6 +1,6 @@
-#User search with autocomplete function
+# User search with autocomplete function
 
-##Steps for installation
+## Steps for installation
 1.	Clone the repository.
 2.	Open the project folder task in your code editor.
 3.	Open a new terminal and type “cd usersearch” and hit enter. We are in the       directory of the react project.
@@ -8,7 +8,7 @@
 5.	Once done type “cd ..” to go back to the root directory.
 6.	Type “npm install“ to install the dependencies of the express project.
 
-##Steps to use the application
+## Steps to use the application
 1.	Type “npm start” to run both the express and the react project.
 2.	The express project and the react project will be running. Your default browser will show then show the react project.
 3.	You will see a text bar and a search button. You can start typing and the autocomplete prompt will appear. You can either choose the suggested prompts or choose to type the user search term. 
